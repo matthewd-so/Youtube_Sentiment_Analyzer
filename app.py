@@ -44,7 +44,7 @@ def index():
         sents.append(sentiment)
         scores.append("{:.2f}".format(score))
     
-    #convert everything to a string
+    # Convert everything to a string
     string_comments = [str(i) for i in coms]
     string_sentiments = [str(i) for i in sents]
     string_scores = ['  ' + str(i) for i in scores]
