@@ -1,4 +1,4 @@
-**Youtube Sentiment Analysis**
+**Youtube Sentiment Analyzer**
 
 This project is a web application that performs sentiment analysis on YouTube video comments and displays the results in a tabular format. It uses the YouTube API to retrieve comments from a specified video and AWS Comprehend for sentiment analysis. The results are then displayed on a web page using Flask and HTML.
 
